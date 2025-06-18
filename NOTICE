@@ -1,0 +1,14 @@
+# Android Recovery Builder
+
+Copyright (C) 2025 The Android Open Source Project
+
+This project incorporates components from the following open-source recovery projects:
+
+- TeamWin Recovery Project (TWRP) - https://github.com/TeamWin
+- OrangeFox Recovery Project - https://gitlab.com/OrangeFox
+- azwhikaru's GitHub Actions templates - https://github.com/azwhikaru
+- carlodandan's - https://github.com/carlodandan
+- Other contributors as acknowledged in source and Git history
+
+Licensed under the Apache License, Version 2.0.
+See the LICENSE file for details.
