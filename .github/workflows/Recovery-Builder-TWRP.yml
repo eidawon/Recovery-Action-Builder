@@ -164,7 +164,7 @@ jobs:
           body: |
             Built via **GitHub Actions**
             
-            **Build:** fox_${{ inputs.MANIFEST_BRANCH }}
+            **Build:** twrp_${{ inputs.MANIFEST_BRANCH }}
             **Device:** ${{ inputs.DEVICE_NAME }}
             **Maintainer:** @${{ github.actor }}
             **Status:** Booted and tested   
